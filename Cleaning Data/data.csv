@@ -1,0 +1,9 @@
+Name, Age, Gender, City, Height, Weight
+John, 25, M, New York, 180, 70
+Jane, , F, San Francisco, 165, 55
+Bob, 30, M, London, 190, 80
+Alice, 27, , Paris, , 60
+Charlie, 35, M, Berlin, 175, 90
+Emma, 28, F, , 160, 50
+David, 32, M, Los Angeles, 185, 
+Sarah, 29, F, Sydney, 170, abc
